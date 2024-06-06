@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-07T00:19:51 BDT" name="Default suite" finished-at="2024-06-07T00:20:09 BDT" duration-ms="18807">
+    <groups>
+    </groups>
+    <test started-at="2024-06-07T00:19:51 BDT" name="Default test" finished-at="2024-06-07T00:20:09 BDT" duration-ms="18807">
+      <class name="TestCases.LogoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.LogoutTest@2ad48653]" started-at="2024-06-07T00:19:51 BDT" name="setup" finished-at="2024-06-07T00:19:59 BDT" duration-ms="8119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logoutTest()[pri:1, instance:TestCases.LogoutTest@2ad48653]" started-at="2024-06-07T00:19:59 BDT" name="logoutTest" description="Verify Logout Functionality" finished-at="2024-06-07T00:20:04 BDT" duration-ms="5259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.LogoutTest@2ad48653]" started-at="2024-06-07T00:20:04 BDT" name="tearDown" finished-at="2024-06-07T00:20:09 BDT" duration-ms="5390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.LogoutTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
